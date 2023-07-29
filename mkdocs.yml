@@ -1,4 +1,4 @@
-site_name: My Docs
+site_name: Future of AI Augment Cognition - Foresight in Public
 theme:
   name: material
   features:
@@ -36,6 +36,8 @@ extra:
       link: https://github.com/Wensupu-Yang
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/wensupuyang/
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:<wensupu.yang@gmail.com>
 
 
 copyright: |
