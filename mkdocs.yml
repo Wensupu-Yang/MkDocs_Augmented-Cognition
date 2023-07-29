@@ -1,0 +1,42 @@
+site_name: My Docs
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+  language: en
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline 
+        name: Switch to dark mode
+      primary: white
+      accent: black
+    - scheme: slate 
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode    
+      primary: black
+      accent: white
+
+
+plugins:
+  - social
+
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/Wensupu-Yang
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/wensupuyang/
+
+
+copyright: |
+  &copy; 2023 <a href="https://github.com/Wensupu-Yang"  target="_blank" rel="noopener">Wensupu Yang</a>
